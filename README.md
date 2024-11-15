@@ -1,1 +1,1 @@
-Смотреть /Devops-TEST.pdf
+Смотреть [Devops-TEST](Devops-TEST.pdf)
